@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "item": "minecraft:bowl" },
+    { "ore": "treeLeaves" },
+    { "ore": "listAllplant" }
+  ],
+  "result": {
+    "item": "regenenhancer:herbal_soup",
+    "count": 1
+  }
+}
+

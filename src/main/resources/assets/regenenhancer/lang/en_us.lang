@@ -1,0 +1,11 @@
+item.regenenhancer.bandage.name=Bandage
+item.regenenhancer.herbal_soup.name=Herbal Soup
+
+effect.regen_boost=Regeneration Boost
+
+item.regenenhancer.bandage.desc=Mimics natural regeneration for a short time.
+item.regenenhancer.bandage.uses=Uses remaining: %s
+item.regenenhancer.herbal_soup.desc=A nourishing soup made from wild herbs.
+item.regenenhancer.herbal_soup.heal=Heals 2 hearts upon consumption.
+
+item.minecraft.potion.regenenhancer.regen_boost.name=Regeneration Boost Potion

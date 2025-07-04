@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WWW",
+        "WRW",
+        "WWW"
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:white_wool"
+        },
+        "R": {
+            "item": "minecraft:potion",
+            "data": 0,
+            "nbt": "{Potion:\"regenenhancer:regen_boost\"}"
+        }
+    },
+    "result": {
+        "item": "regenenhancer:bandage",
+        "count": 1
+    }
+}

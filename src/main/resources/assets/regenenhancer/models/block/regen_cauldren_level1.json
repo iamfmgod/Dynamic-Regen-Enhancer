@@ -1,0 +1,21 @@
+{
+    "parent": "block/cauldron_level1",
+    "textures": {
+    "bottom": "minecraft:blocks/cauldron_bottom",
+        "side": "minecraft:blocks/cauldron_side",
+        "top": "minecraft:blocks/cauldron_top",
+        "inner": "regenenhancer:blocks/cauldron_inner_tinted"
+},
+    "elements": [
+    {
+        "from": [2, 4, 2],
+        "to": [14, 4.5, 14],
+        "faces": {
+            "up": {
+                "texture": "#inner",
+                "tintindex": 0
+            }
+        }
+    }
+]
+}
